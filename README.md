@@ -1,2 +1,2 @@
 # HiPython
-A basic python program
+It's a hello world of python program
